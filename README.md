@@ -1,7 +1,7 @@
 Traversal-Alogrithms
 ====================
 
-Pyhton application that demonstrate BFS and DFS traversal and well as displaying a binary tree representation
+Python application that demonstrate BFS and DFS traversal and well as displaying a binary tree representation
 
 @Author: Oshane Bailey
 @Purpose: School Project
