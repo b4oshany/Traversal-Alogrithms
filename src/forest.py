@@ -27,7 +27,7 @@ class Forest:
 
     def isLeaf(self, node):
         """Return True if the node is a leaf."""
-        return node in self.children
+        return node not in self.children
 
     def getDepth(self, node):
         """Return the depth of the given node."""
